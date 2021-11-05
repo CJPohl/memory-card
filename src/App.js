@@ -10,7 +10,6 @@ import "@fortawesome/fontawesome-free/js/brands";
 import "./app.css";
 
 function App() {
-  
   return (
     <div className="app">
       <Title />
