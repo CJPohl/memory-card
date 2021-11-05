@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/memory-card/static/css/main.2647fd2b.chunk.css",
+    "main.js": "/memory-card/static/js/main.874c2c06.chunk.js",
+    "main.js.map": "/memory-card/static/js/main.874c2c06.chunk.js.map",
+    "runtime-main.js": "/memory-card/static/js/runtime-main.73480ed4.js",
+    "runtime-main.js.map": "/memory-card/static/js/runtime-main.73480ed4.js.map",
+    "static/js/2.c6252eb5.chunk.js": "/memory-card/static/js/2.c6252eb5.chunk.js",
+    "static/js/2.c6252eb5.chunk.js.map": "/memory-card/static/js/2.c6252eb5.chunk.js.map",
+    "index.html": "/memory-card/index.html",
+    "static/css/main.2647fd2b.chunk.css.map": "/memory-card/static/css/main.2647fd2b.chunk.css.map",
+    "static/js/2.c6252eb5.chunk.js.LICENSE.txt": "/memory-card/static/js/2.c6252eb5.chunk.js.LICENSE.txt",
+    "static/media/harp.0a532dc9.png": "/memory-card/static/media/harp.0a532dc9.png",
+    "static/media/lightning.24338ce7.png": "/memory-card/static/media/lightning.24338ce7.png",
+    "static/media/poseidon.1f1e7661.png": "/memory-card/static/media/poseidon.1f1e7661.png",
+    "static/media/vase.f1199b36.png": "/memory-card/static/media/vase.f1199b36.png",
+    "static/media/zeus.dd68e5c3.png": "/memory-card/static/media/zeus.dd68e5c3.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.73480ed4.js",
+    "static/js/2.c6252eb5.chunk.js",
+    "static/css/main.2647fd2b.chunk.css",
+    "static/js/main.874c2c06.chunk.js"
+  ]
+}
